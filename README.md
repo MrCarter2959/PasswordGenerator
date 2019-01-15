@@ -14,4 +14,4 @@ RUNNING .exe :
   2. Run PasswordGen.exe
 
     Example:
-     ![Demo](https://media.giphy.com/media/Nl4DUADPaJMKNJyzov/giphy.gif)
+     ![](https://media.giphy.com/media/Nl4DUADPaJMKNJyzov/giphy.gif)
