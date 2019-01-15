@@ -7,7 +7,7 @@ INSTALL Module :
   3. Call it like any other Module.
   
   Example:
-      ![](https://media.giphy.com/media/5dUA6kWr2B14n7r3Ia/giphy.gif)
+      ![Module](https://media.giphy.com/media/5dUA6kWr2B14n7r3Ia/giphy.gif)
 
 RUNNING .exe :
   1. Download PasswordGen.exe
