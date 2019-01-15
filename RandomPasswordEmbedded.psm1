@@ -10,4 +10,6 @@ $Random_RandomNumber = $Random_InputRange | Where-Object { $Random_Exclude -notc
 $Random_RandPassword = Get-Random -InputObject $Random_RandomWord
 
 $Random_RandPassword += Get-Random -InputObject $Random_RandomNumber
+
+$RandomPasswordEmbedded
 }
