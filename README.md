@@ -10,8 +10,6 @@ INSTALL Module :
       ![Module](https://media.giphy.com/media/5dUA6kWr2B14n7r3Ia/giphy.gif)
 
 RUNNING .exe :
+  NOTE: The executable is created from the GUI_PasswordGen.ps1 and converted by PS2EXE-GUI
   1. Download PasswordGen.exe
   2. Run PasswordGen.exe
-
-    Example:
-     ![](https://media.giphy.com/media/Nl4DUADPaJMKNJyzov/giphy.gif)
